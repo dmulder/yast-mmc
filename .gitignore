@@ -99,3 +99,15 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+Makefile
+Makefile.in
+INSTALL
+aclocal.m4
+autom4te.cache/
+config.status
+configure
+install-sh
+missing
+py-compile
+
